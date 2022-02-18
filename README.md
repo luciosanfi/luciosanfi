@@ -4,10 +4,10 @@ Trabajamos mucho con html, css y angular. Si bien mi experiencia en el front es 
 front que en el back y por eso me gustaria seguir por este camino.
 Manejo conceptos basicos de angular y por eso creo que la posicion para mi sigue siendo trainee.
 
-## Otras herramientas:**
-git y github:
-Se manejar mi codigo a traves de distintas ramas en git y se como subir los datos desde mi rama local al repositorio remoto, tengo hecho un curso de git en udemy 
-donde aprnedi varias cosas sobre git y que me han servido para trabajar.
+## Otras herramientas:
+*git y github:
+Se manejar mi codigo a traves de distintas ramas en git y se como subir los datos desde mi rama local al repositorio remoto entre otras cosas, tengo hecho un curso de git en udemy 
+donde aprendi varias cosas sobre git y que me han servido para trabajar.
 
-metodologias agiles: Tengo experiencia trabajando en este tipo de metodologias.
+*metodologias agiles: Tengo experiencia trabajando en este tipo de metodologias.
 
