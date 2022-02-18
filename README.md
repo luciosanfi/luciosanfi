@@ -11,3 +11,5 @@ donde aprendi varias cosas sobre git y que me han servido para trabajar.
 
 * metodologias agiles: Tengo experiencia trabajando en este tipo de metodologias.
 
+### Adjunto mi perfil de linkedin:
+[https://www.linkedin.com/in/lucio-sanfilippo-5a620621a/](https://www.linkedin.com/in/lucio-sanfilippo-5a620621a/)
